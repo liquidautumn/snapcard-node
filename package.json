@@ -1,0 +1,26 @@
+{
+  "name": "snapcard",
+  "version": "1.0.0",
+  "description": "Node.js client library for the SNAPCARD API.",
+  "main": "./index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snapcard/snapcard-node.git"
+  },
+  "keywords": [
+    "snapcard",
+    "bitcoin",
+    "api"
+  ],
+  "author": "snapcard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapcard/snapcard-node/issues"
+  },
+  "dependencies": {
+    "crypto": "0.0.3",
+    "q": "^1.4.1",
+    "request": "^2.67.0"
+  }
+}
