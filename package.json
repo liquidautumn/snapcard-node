@@ -18,6 +18,9 @@
   "bugs": {
     "url": "https://github.com/snapcard/snapcard-node/issues"
   },
+  "engines" : {
+    "node" : ">=4.0.0"
+  },
   "dependencies": {
     "crypto": "0.0.3",
     "q": "^1.4.1",
