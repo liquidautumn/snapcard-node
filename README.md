@@ -1,7 +1,7 @@
 SNAPCARD
 ========
 
-Node.js client library for the [SNAPCARD API](https://docs.snapcard.io/).
+Node.js client library for the [Snapcard API](https://docs.snapcard.io/).
 
 Install
 -------
